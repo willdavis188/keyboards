@@ -12,7 +12,7 @@ Some things I learned from this build:
 - Get a nice set of flush cutters
 - The location of bends are a lot more forgiving than you would think
 - Use flux when soldering
-- 
+
 Switches are Lubed and Filmed Gateron Milky Yellows with Oil King top housings.
 
 ![694EDE87-1700-4566-9CFF-9EB2AE7B5D5D](https://user-images.githubusercontent.com/101441884/213941510-18ff6489-cc4b-4e46-8680-6338f1616a20.JPG)
