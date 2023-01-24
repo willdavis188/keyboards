@@ -22,6 +22,9 @@ Some things I learned from this build:
 - NicePBT BoW keycaps
 - 3D printed plate and case
 
+Update 1/20/2023:
+Finished 3D printed case.
+
 Update 1/24/2023:
 Added VIA/VIAL support.
 
