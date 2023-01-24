@@ -13,7 +13,7 @@ Some things I learned from this build:
 - The location of bends are a lot more forgiving than you would think
 - Use flux when soldering
 
-# Parts
+### Parts
 
 - USB C Pro Micro (keeb.io)
 - 18 gauge bare copper wire
