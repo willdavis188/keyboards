@@ -1,6 +1,6 @@
 # willd23 handwired numpad:
 
-Reddit Post:
+Reddit post with more pictures:
 https://www.reddit.com/r/HandwiredKeyboards/comments/10b5ls7/first_build/
 
 I followed u/Joe_Scotto tutorials as well as a guide by u/onebigdoor using 18 gauge bare copper wire. If you are interested in doing something similar then save yourself a massive headache and use magnet wire instead. Using 18 gauge wire instead of 16 gauge allows the wires to fit directly into the holes of the pro micro instead of having to solder the wire to breakout pins.
